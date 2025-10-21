@@ -1,6 +1,6 @@
 # Informe: Per què cal un gestor de contrasenyes
 
-## Què ha passat?
+## Context?
 
 A l'empresa han entrat hackers perquè algú feia servir una contrasenya dolenta o repetida. Això és molt perillós perquè poden robar informació important. Per això ara ens demanen que fem servir un gestor de contrasenyes.
 
@@ -31,14 +31,14 @@ Un gestor de contrasenyes és com una llibreta segura on pots guardar totes les 
 ## Pros i contres
 
 **Bitwarden**
-- ✅ Fàcil d’usar
-- ✅ Pots accedir des de qualsevol lloc
-- ❌ Necessites internet
+- ✔️ Fàcil d’usar
+- ✔️ Pots accedir des de qualsevol lloc
+- ❌ ​Necessites internet
 - ❌ Les dades estan al núvol (encara que segures)
 
 **KeePassXC**
-- ✅ Tot queda al teu ordinador
-- ✅ No cal internet
+- ✔️ Tot queda al teu ordinador
+- ✔️ No cal internet
 - ❌ Si perds l’arxiu, ho perds tot
 - ❌ Més difícil de configurar
 
