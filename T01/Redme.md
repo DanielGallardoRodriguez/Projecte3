@@ -44,5 +44,5 @@ La guia ha de mostrar:
 
 ## Recursos de suport
 
-- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-contrasl](https – Pàgina oficial](https://ores de contraseñas](https://www.incibe.es/protege-tu-empresa/blogta límit de lliurament:** Diumenge, 26 d’octubre de 2025 a les 23:59  
+- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-contrasl](https – Pàgina oficial](https://ores de contraseñas](https://www.incibe.es/protege-tu-empresa/blogta límit de lliurament:**  
 > **Tasca individual** – Cal demostrar rigor tècnic i claredat documental.
