@@ -41,6 +41,18 @@ A EverPia, cada projecte és una història, cada error és una lliçó, i cada t
 
 ## Contingut
 
-- Tasca 1  
+- Tasca 1
+- Tasca 2
+- Tasca 3  
 - Tasca 4  
+- Tasca 5
 - Tasca 6
+- Tasca 7
+- Tasca 8
+- Projecte 1
+- Projecte 2
+- Projecte 3
+- Projecte 4
+- Projecte 5
+- Projecte 6
+- Projecte 7
