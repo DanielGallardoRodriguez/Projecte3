@@ -24,7 +24,7 @@ Aquest vídeo representa un **producte professional** que pot formar part del po
 
 ## Enllaç al vídeo
 
-👉 [Accedeix al vídeo formatiu sobre DNS](https://enllaç-al-vídeo-streamst enllaç pel definitiu un cop el vídeo estigui publicat.)*
+👉 
 
 ## Finalitat de la tasca
 
