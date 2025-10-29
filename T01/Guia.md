@@ -17,7 +17,8 @@ Opcions disponibles:
 - Extensió de navegador (Chrome, Firefox, Edge)  
 - Aplicació web (en línia)
 
-📷 *img/instal·lacio.png*
+📷 <img width="274" height="271" alt="image" src="https://github.com/user-attachments/assets/11c884c7-3d96-4c74-88e3-457e399eec2f" />
+
 
 ---
 
@@ -28,7 +29,8 @@ Un cop instal·lada l’eina, cal crear un compte mestre:
 - Fes clic a “Crear compte”
 - Introdueix el correu electrònic, nom d’usuari, contrasenya mestra segura i una pista de recordatori
 
-📷 *img/instal·lacio.png*
+📷 <img width="281" height="277" alt="image" src="https://github.com/user-attachments/assets/827a7900-5819-45b6-9159-9280965ba0c5" />
+
 
 ---
 
@@ -40,7 +42,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 
 - A l’aplicació o extensió, fes clic a “Generador de contrasenyes”
 
-📷 *img/generador.png*
+📷 <img width="605" height="298" alt="image" src="https://github.com/user-attachments/assets/2e45c21b-9487-40b6-b945-eb788b40e1e8" />
+
 
 ---
 
@@ -50,7 +53,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 - Opcions disponibles: majúscules, minúscules, números i caràcters especials  
 - Opcional: generació de frases de pas (passphrases)
 
-📷 *img/generador.png*
+📷 <img width="472" height="313" alt="image" src="https://github.com/user-attachments/assets/98da45f4-3256-4bf7-bb83-9df7e09a21c8" />
+
 
 ---
 
@@ -63,7 +67,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 - URL: https://mail.google.com  
 - Introdueix l’usuari i la contrasenya corresponents
 
-📷 *img/exemple_email.png*
+📷 <img width="573" height="757" alt="image" src="https://github.com/user-attachments/assets/f1bb4854-7ea6-4fae-8648-533fa52f478f" />
+
 
 ---
 
@@ -71,7 +76,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 
 - Repeteix el procés anterior, modificant el nom i la URL segons el servei (p. ex. GitHub, Moodle)
 
-📷 *img/exemple_web.png*
+📷 <img width="372" height="588" alt="image" src="https://github.com/user-attachments/assets/0d6c8a1f-e2d1-45cd-b3f3-53f3609f05e2" />
+
 
 ---
 
@@ -82,7 +88,7 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 - Accedeix a un lloc web amb credencials guardades  
 - Bitwarden oferirà l’opció d’emplenar automàticament els camps
 
-📷 *img/extensio_navegador.png*
+📷 <img width="1340" height="761" alt="image" src="https://github.com/user-attachments/assets/b8ea6618-985a-40e1-bdca-8df4ffd1e90d" />
 
 ---
 
@@ -93,7 +99,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
 - A l’aplicació web: Configuració → Eines → Exportar Vault  
 - Format recomanat: `.json` (xifrat si es desitja)
 
-📷 *img/backup.png*
+📷 <img width="941" height="428" alt="image" src="https://github.com/user-attachments/assets/99fd4203-f33f-422b-bf7b-25a3de2ff6ec" />
+
 
 ---
 
@@ -104,7 +111,8 @@ Bitwarden inclou un generador integrat que permet crear contrasenyes robustes.
   - Un servei d’emmagatzematge al núvol amb xifrat (p. ex. Tresorit, Proton Drive)
   - Alternativament, utilitza eines com VeraCrypt per xifrar manualment
 
-📷 *img/backup.png*
+📷 <img width="794" height="484" alt="image" src="https://github.com/user-attachments/assets/d1c98540-535b-4c7b-ab14-26239cb5eefa" />
+
 
 ---
 
