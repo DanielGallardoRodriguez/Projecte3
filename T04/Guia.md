@@ -82,10 +82,12 @@ Consultem:
 
 Gestió i Administració
 Instal·lació del Gestor d'Usuaris LDAP (LAM). S'ha de documentar la comanda d'instal·lació.
+
 <img width="576" height="31" alt="Captura de pantalla 2025-10-28 165436" src="https://github.com/user-attachments/assets/51173082-21f6-4d42-9b01-28695d04f143" />
 Accés Remot i Configuració. Connectar a LAM des de la màquina física utilitzant l'adreça IP de la interfície Host-Only.
 
 Ip que hem de utilitzar:
+
 <img width="818" height="374" alt="image" src="https://github.com/user-attachments/assets/d2705b8d-3051-4da0-adad-cd244ddb7538" />
 
 
@@ -98,10 +100,12 @@ Anem a un navegador i introduim la ip seguidament de /lam, un cop dins anem a LA
 Configuració per defecte. Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'OU users i els nous grups a l'OU groups.
 
 Primer canviem el idioma i regio:
+
 <img width="800" height="440" alt="Captura de pantalla 2025-10-28 165807" src="https://github.com/user-attachments/assets/9f867f3b-cfff-4cf6-bfe0-02b75ecfc00b" />
 
 
 Ara anem al tool settings e fiquem el nostre domini i extensio:
+
 <img width="811" height="510" alt="Captura de pantalla 2025-10-28 165914" src="https://github.com/user-attachments/assets/df9c8895-5697-4984-9ee4-3a6b744bf4ee" />
 
 
@@ -116,6 +120,7 @@ Per crear els grups es sencill, simplement anirem a Nuevo grupo, fiquem el nom n
 Creació d'Usuaris de Prova. Crear un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager).
 
 Introduim els noms corresponents (tech01 o manager01), anem a l'apartat de Unix i seleccionem Crear grupo con mismo nombre:
+
 <img width="1891" height="353" alt="Captura de pantalla 2025-10-29 180033" src="https://github.com/user-attachments/assets/776a90b0-1dc0-4f3c-a52e-1b89707d9a8e" />
 
 
@@ -130,9 +135,10 @@ Si volem comprovar si s'ha configurat correctament anem als grups i entrem a l'o
 
 I repetim el mateix proces amb l'usuari tech01.
 
-4. Integració de Client (Client Ubuntu Desktop)
+Integració de Client (Client Ubuntu Desktop)
 
 Configurem el client que ho hem fet el linux v17 ja que no tenim el ubuntu desktop i l'hem configurat de tal manera per poder accedir als usuaris que hem creat desde la WEB.
+
 <img width="1255" height="465" alt="Captura de pantalla 2025-11-11 164935" src="https://github.com/user-attachments/assets/ec401348-554b-4eb9-8ddf-5c3da6e57a1e" />
 
 <img width="627" height="393" alt="Captura de pantalla 2025-11-11 165513" src="https://github.com/user-attachments/assets/efa30b34-f09a-440c-86d9-f30b7758034c" />
