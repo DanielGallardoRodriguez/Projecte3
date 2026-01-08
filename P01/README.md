@@ -32,3 +32,8 @@ Dins la carpeta `p01-kanban` s’han d’incloure els següents arxius:
 
 > **Tasca contínua** – El Kanban és una eina viva que ha d’evolucionar amb el projecte.  
 > **Seguiment setmanal** – El seu bon ús impacta directament en la valoració del projecte.
+
+
+
+https://github.com/user-attachments/assets/a02b3ac2-7c8b-4e5b-88d2-864d55219363
+
